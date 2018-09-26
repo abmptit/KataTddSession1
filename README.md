@@ -2,17 +2,17 @@
 
 This repository is a sample exercice to introduce for the TDD practices.
 
-##FooBarQix
+## FooBarQix
 
 You should implement a function String Compute(String) which implement the following rules
 
-###Rules
+### Rules
 - if the number is divisbile by 3, write "Foo" instead of the number
 - if the number is divisbile by 5, write "Bar" instead of the number
 - if the number is divisbile by 7, write "Qix" instead of the number
 - for each digit 3, 5, 7, add "Foo", "Bar", "Qix" in the digits order.
 
-###Examples
+### Examples
 1 => 1
 2 => 2
 3 => FooFoo
