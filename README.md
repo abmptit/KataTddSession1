@@ -13,11 +13,11 @@ You should implement a function String Compute(String) which implement the follo
 - for each digit 3, 5, 7, add "Foo", "Bar", "Qix" in the digits order.
 
 ### Examples
-1 => 1
-2 => 2
-3 => FooFoo
-4 => 4 
-5 => BarBar
-6 => Foo
-7 => QixQix
-...
+- 1 => 1
+- 2 => 2 \n
+- 3 => FooFoo \n
+- 4 => 4 
+- 5 => BarBar
+- 6 => Foo
+- 7 => QixQix
+- ...
