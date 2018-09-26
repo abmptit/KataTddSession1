@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataTddSession1", "KataTddSession1\KataTddSession1.csproj", "{88FB3BB3-3930-4141-AA58-E11E46273701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FooBarQixProject", "FooBarQixProject\FooBarQixProject.csproj", "{7C8C5B15-249C-41C2-BBD9-18A96953BD80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88FB3BB3-3930-4141-AA58-E11E46273701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FB3BB3-3930-4141-AA58-E11E46273701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FB3BB3-3930-4141-AA58-E11E46273701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FB3BB3-3930-4141-AA58-E11E46273701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8C5B15-249C-41C2-BBD9-18A96953BD80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8C5B15-249C-41C2-BBD9-18A96953BD80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8C5B15-249C-41C2-BBD9-18A96953BD80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8C5B15-249C-41C2-BBD9-18A96953BD80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC5F745-41BB-4343-80D4-FD30B7547397}
+	EndGlobalSection
+EndGlobal
