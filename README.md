@@ -14,8 +14,8 @@ You should implement a function String Compute(String) which implement the follo
 
 ### Examples
 - 1 => 1
-- 2 => 2 \n
-- 3 => FooFoo \n
+- 2 => 2
+- 3 => FooFoo
 - 4 => 4 
 - 5 => BarBar
 - 6 => Foo
